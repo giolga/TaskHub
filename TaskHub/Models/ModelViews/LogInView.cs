@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace TaskHub.Models.ModelsView
+namespace TaskHub.Models.ModelViews
 {
     public class LogInView
     {
