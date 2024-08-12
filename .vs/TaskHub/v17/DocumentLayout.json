@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\TaskHub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AD603C38-FFFE-454A-8595-D04681956EBA}|TaskHub\\TaskHub.csproj|c:\\users\\giolga\\desktop\\myprojects\\taskhub\\taskhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD603C38-FFFE-454A-8595-D04681956EBA}|TaskHub\\TaskHub.csproj|solutionrelative:taskhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD603C38-FFFE-454A-8595-D04681956EBA}|TaskHub\\TaskHub.csproj|c:\\users\\giolga\\desktop\\myprojects\\taskhub\\taskhub\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD603C38-FFFE-454A-8595-D04681956EBA}|TaskHub\\TaskHub.csproj|solutionrelative:taskhub\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD603C38-FFFE-454A-8595-D04681956EBA}|TaskHub\\TaskHub.csproj|c:\\users\\giolga\\desktop\\myprojects\\taskhub\\taskhub\\models\\modelsview\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD603C38-FFFE-454A-8595-D04681956EBA}|TaskHub\\TaskHub.csproj|solutionrelative:taskhub\\models\\modelsview\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AD603C38-FFFE-454A-8595-D04681956EBA}|TaskHub\\TaskHub.csproj|c:\\users\\giolga\\desktop\\myprojects\\taskhub\\taskhub\\models\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD603C38-FFFE-454A-8595-D04681956EBA}|TaskHub\\TaskHub.csproj|solutionrelative:taskhub\\models\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD603C38-FFFE-454A-8595-D04681956EBA}|TaskHub\\TaskHub.csproj|c:\\users\\giolga\\desktop\\myprojects\\taskhub\\taskhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD603C38-FFFE-454A-8595-D04681956EBA}|TaskHub\\TaskHub.csproj|solutionrelative:taskhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 298,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\TaskHub\\TaskHub\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskHub\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\TaskHub\\TaskHub\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TaskHub\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:50:52.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LogInView.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\TaskHub\\TaskHub\\Models\\ModelsView\\LogInView.cs",
               "RelativeDocumentMoniker": "TaskHub\\Models\\ModelsView\\LogInView.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\TaskHub\\TaskHub\\Models\\ModelsView\\LogInView.cs",
               "RelativeToolTip": "TaskHub\\Models\\ModelsView\\LogInView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T14:39:26.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ApplicationUserView.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\TaskHub\\TaskHub\\Models\\ModelsView\\ApplicationUserView.cs",
               "RelativeDocumentMoniker": "TaskHub\\Models\\ModelsView\\ApplicationUserView.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "TaskHub\\Models\\ModelsView\\ApplicationUserView.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T14:33:58.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T14:33:58.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UserTask.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\TaskHub\\TaskHub\\Models\\UserTask.cs",
               "RelativeDocumentMoniker": "TaskHub\\Models\\UserTask.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "TaskHub\\Models\\UserTask.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T14:27:53.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T14:27:53.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\TaskHub\\TaskHub\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "TaskHub\\Models\\ApplicationUser.cs",
@@ -89,18 +104,17 @@
               "RelativeToolTip": "TaskHub\\Models\\ApplicationUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T14:21:16.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T14:21:16.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\TaskHub\\TaskHub\\Program.cs",
               "RelativeDocumentMoniker": "TaskHub\\Program.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\TaskHub\\TaskHub\\Program.cs",
               "RelativeToolTip": "TaskHub\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAADwvxsAAAAAAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T14:13:12.579Z",
               "EditorCaption": ""

@@ -144,3 +144,4 @@ C:\Users\GioLGA\Desktop\MyProjects\TaskHub\TaskHub\obj\Debug\net8.0\refint\TaskH
 C:\Users\GioLGA\Desktop\MyProjects\TaskHub\TaskHub\obj\Debug\net8.0\TaskHub.pdb
 C:\Users\GioLGA\Desktop\MyProjects\TaskHub\TaskHub\obj\Debug\net8.0\TaskHub.genruntimeconfig.cache
 C:\Users\GioLGA\Desktop\MyProjects\TaskHub\TaskHub\obj\Debug\net8.0\ref\TaskHub.dll
+C:\Users\GioLGA\Desktop\MyProjects\TaskHub\TaskHub\obj\Debug\net8.0\TaskHub.sourcelink.json
